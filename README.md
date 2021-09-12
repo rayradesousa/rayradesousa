@@ -1,9 +1,9 @@
-### Olá! Eu sou a Rayra ✋
+#### Olá! Eu sou a Rayra ✋
  Tudo bem? 
 
 Me interessei pela tecnologia e decidi me aprofundar nos estudos de programação, me descobri apaixonada por esta área. Atualmente terminei meu curso na parte de HTML, CSS, Java Script e bootstrap. Estou começando o curso de NodeJS, ReactJS e React Native, afim de me aprofundar no desenvolvimento web e mobile. <hr>
 
-#### Tecnologias que estou utilizando e aprendendo no meu dia a dia 💻📚 
+##### Tecnologias que estou utilizando e aprendendo no meu dia a dia 💻📚 
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
