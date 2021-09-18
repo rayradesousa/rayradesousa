@@ -14,8 +14,8 @@ Me interessei pela tecnologia e decidi me aprofundar nos estudos de programaçã
 <hr> 
 
 
-![Rayra de Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=rayradesousa&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayradesousa&layout=compacttrue&theme=radical )](https://github.com/rayradesousa/github-readme-stats)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayradesousa&layout=compacttrue&theme=radical )](https://github.com/rayradesousa/github-readme-stats)
+ ![Rayra de Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=rayradesousa&show_icons=true&theme=radical)
 <hr> 
 
 
