@@ -1,7 +1,7 @@
 #### Olá! Eu sou a Rayra ✋
  Tudo bem? 
 
-Me interessei pela tecnologia e decidi me aprofundar nos estudos de programação, me descobri apaixonada por esta área. Atualmente terminei meus estudos na parte de HTML, CSS, JavaScript e bootstrap. E estou estudando NodeJS e ReactJS de modo a me aprofundar no desenvolvimento web e mobile, também faço o bootcamp da plataforma Digital Innovation One. Ainda não possuo nenhuma experiência profissional na área, mas estou em busca de uma primeira oportunidade.  <hr>
+Me interessei pela tecnologia e decidi me dedicar aos  estudos de programação, me descobri apaixonada por esta área. E para me aprofundar um pouco mais decidi cursar Engenharia de Software. Ainda não possuo nenhuma experiência profissional na área, mas estou em busca de uma primeira oportunidade.  <hr>
 
 ##### Tecnologias que estou utilizando e aprendendo no meu dia a dia 💻📚 
 
