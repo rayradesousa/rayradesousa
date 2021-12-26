@@ -1,7 +1,7 @@
 #### Olá! Eu sou a Rayra ✋
  Tudo bem? 
 
-Me interessei pela tecnologia e decidi me dedicar aos  estudos de programação, me descobri apaixonada por esta área. E para me aprofundar um pouco mais decidi cursar Engenharia de Software. Ainda não possuo nenhuma experiência profissional na área, mas estou em busca de uma primeira oportunidade.  <hr>
+Me interessei pela tecnologia e decidi me dedicar aos  estudos de programação, me descobri apaixonada por esta área. E para me aprofundar um pouco mais decidi cursar Engenharia de Software. Além de praticar muito com projetos pessoais para colocar em prática tudo que estou aprendendo.  <hr>
 
 ##### Tecnologias que estou utilizando e aprendendo no meu dia a dia 💻📚 
 
